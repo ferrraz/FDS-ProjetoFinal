@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ferra\\source\\repos\\FDS - Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B89B92B-B51D-4E4C-8DC1-6069474A21D7}|FDS - Projeto\\FDS - Projeto.csproj|c:\\users\\ferra\\source\\repos\\fds - projeto\\fds - projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B89B92B-B51D-4E4C-8DC1-6069474A21D7}|FDS - Projeto\\FDS - Projeto.csproj|solutionrelative:fds - projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B89B92B-B51D-4E4C-8DC1-6069474A21D7}|FDS - Projeto\\FDS - Projeto.csproj|c:\\users\\ferra\\source\\repos\\fds - projeto\\fds - projeto\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B89B92B-B51D-4E4C-8DC1-6069474A21D7}|FDS - Projeto\\FDS - Projeto.csproj|solutionrelative:fds - projeto\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B89B92B-B51D-4E4C-8DC1-6069474A21D7}|FDS - Projeto\\FDS - Projeto.csproj|c:\\users\\ferra\\source\\repos\\fds - projeto\\fds - projeto\\cartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B89B92B-B51D-4E4C-8DC1-6069474A21D7}|FDS - Projeto\\FDS - Projeto.csproj|solutionrelative:fds - projeto\\cartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B89B92B-B51D-4E4C-8DC1-6069474A21D7}|FDS - Projeto\\FDS - Projeto.csproj|c:\\users\\ferra\\source\\repos\\fds - projeto\\fds - projeto\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B89B92B-B51D-4E4C-8DC1-6069474A21D7}|FDS - Projeto\\FDS - Projeto.csproj|solutionrelative:fds - projeto\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ferra\\source\\repos\\FDS - Projeto\\FDS - Projeto\\Program.cs",
+              "RelativeDocumentMoniker": "FDS - Projeto\\Program.cs",
+              "ToolTip": "C:\\Users\\Ferra\\source\\repos\\FDS - Projeto\\FDS - Projeto\\Program.cs",
+              "RelativeToolTip": "FDS - Projeto\\Program.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAjwGQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:57:58.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Ferra\\source\\repos\\FDS - Projeto\\FDS - Projeto\\Operacoes.cs",
+              "RelativeDocumentMoniker": "FDS - Projeto\\Operacoes.cs",
+              "ToolTip": "C:\\Users\\Ferra\\source\\repos\\FDS - Projeto\\FDS - Projeto\\Operacoes.cs",
+              "RelativeToolTip": "FDS - Projeto\\Operacoes.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAjwLwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:32:32.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cartao.cs",
+              "DocumentMoniker": "C:\\Users\\Ferra\\source\\repos\\FDS - Projeto\\FDS - Projeto\\Cartao.cs",
+              "RelativeDocumentMoniker": "FDS - Projeto\\Cartao.cs",
+              "ToolTip": "C:\\Users\\Ferra\\source\\repos\\FDS - Projeto\\FDS - Projeto\\Cartao.cs",
+              "RelativeToolTip": "FDS - Projeto\\Cartao.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAowNoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:54:41.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ferra\\source\\repos\\FDS - Projeto\\FDS - Projeto\\Cliente.cs",
+              "RelativeDocumentMoniker": "FDS - Projeto\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Ferra\\source\\repos\\FDS - Projeto\\FDS - Projeto\\Cliente.cs",
+              "RelativeToolTip": "FDS - Projeto\\Cliente.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAswF0BAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:07:51.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
